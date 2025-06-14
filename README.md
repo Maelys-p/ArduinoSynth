@@ -13,12 +13,18 @@ I guess I added some stuff for more convinient controlling and serial reporting.
 ## Keyboard Layout
 The layout is very human and is very convinient for humans, that is, if you rip out half the keys.
 
-Lower octave: Z S C F B N J ; L > : LSHIFT
-              C C# D D# E F F# G G# A A# B
+As long as it is untransposed the layout for the notes shall be as such.
+
+Lower octave: 
+
+              Z S  C F  B N J  ; L  > :  LSHIFT /
+              C C# D D# E F F# G G# A A# B      C
 
               
-Upper octave: Q 2 E 4 T Y 7 I 9 P < ^
-              C C# D D# E F F# G G# A A# B
+Upper octave: 
+
+              Q 2  E 4  T Y 7  I 9  P <  ^ ENTER
+              C C# D D# E F F# G G# A A# B C 
 
 You can switch instruments with the arrow keys (left and right), or by pressing some random binds on the numpad.
 
